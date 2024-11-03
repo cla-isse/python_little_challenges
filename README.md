@@ -21,3 +21,7 @@ As soluções aqui apresentadas podem não ser as mais otimizadas ou ideais, mas
 This repository contains a collection of Python programming challenges along with my personal solutions for each problem. The challenges range in difficulty and cover various topics, such as string manipulation, algorithms, and data structures, among others. They were solved with the goal of strengthening my Python skills and exploring different approaches to problem-solving.
 
 The solutions provided here may not be the most optimized or ideal, but they reflect my learning process and implementation efforts. The code is available for review and feedback, and any suggestions for improvements are welcome. Feel free to explore, experiment, and contribute!
+
+---
+
+Feito por cla-isse 💜

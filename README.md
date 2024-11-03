@@ -1,5 +1,7 @@
 # PYTHON LITTLE CHALLENGES 👨‍💻
 
+![Static Badge](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)
+
 * String Compressor
   * [Instructions](./string_compressor.md)
   * [Solution](./string_compressor.py)

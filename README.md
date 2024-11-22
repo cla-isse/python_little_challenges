@@ -1,4 +1,4 @@
-# PYTHON LITTLE CHALLENGES 👨‍💻
+## PYTHON LITTLE CHALLENGES 👨‍💻
 
 ![Static Badge](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)
 
@@ -24,4 +24,4 @@ The solutions provided here may not be the most optimized or ideal, but they ref
 
 ---
 
-Feito por cla-isse 💜
+by [cla-isse](https://github.com/cla-isse) 💜
